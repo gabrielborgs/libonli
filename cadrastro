@@ -1,0 +1,252 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/styles/style.css" rel="stylesheet">
+    <link href="/styles/fonts.css" rel="stylesheet">
+    <link href="/styles/media.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Libonli</title>
+   
+
+</head>
+
+<body>
+<a href="indexhome.html">
+    <center>
+        <a href="indexhome.html">
+    <h2>Libonli</h2>
+</center>
+
+
+
+<!----- navbar-------------------------------------------------------------------------------------->
+
+
+
+
+
+<!------- feio
+
+    <main>
+
+        <aside>
+            <h2><span>Cadrastro</span></h2>
+            
+            <form>
+                
+                <input class="form-control mt-4" type="text" name="user" id="name" placeholder="Nome Completo">
+                <input class="form-control mt-4" type="text" name="user"     id="user" placeholder="Email">
+                <input class="form-control mt-4" type="text" name="email" id="email" placeholder="CPF">
+                <input class="form-control mt-4" type="text" name="password" id="password" placeholder="Sua Senha">
+                <input class="form-control mt-4" type="text" name="password-conf" id="password-conf" placeholder="Confirmar Senha">
+        
+                <ul2>
+                    <a class="btn btn-primary mt-4" type="submit" href="./index.html" ><li>Criar</li></a><br>
+                    
+                </ul2>
+                
+            </form>
+     ---------->
+ </a>
+        <style>
+
+
+
+.hero-image {
+  background-image: url("./photos/garota-lendo.jpg");
+  background-color: orange;
+  height: 700px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
+    img{
+        display: auto;
+        max-width: 1130px
+
+
+    }
+
+        </style>
+    </main>
+    
+    <div>
+        <style>
+            
+            body{
+                background-color: rgb(243, 139, 65);
+                color: blue;
+                font-family: poppinsregular;
+                max-width: 1300px;
+                margin: 0 auto;
+                padding: 15px;
+
+            }
+
+            header{
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                align-items: center;
+            }
+
+            #title{
+                flex-direction: column;
+                line-height: 10px;
+            }
+
+            li{
+                display: inline-block;
+                margin: 20px;
+            }
+
+            a{
+                color: white;
+            }
+
+            a:hover{
+                color: white;
+                transition: 0.3s all;
+            }
+
+            #inscreva-se-btn{
+                border: 2px solid white;
+                padding: 10px;
+                border-radius: 15px;
+            }
+
+            #inscreva-se-btn:hover{
+                background-color: white;
+                color: white;
+            }
+
+            h1{
+                font-weight: 200;
+            }
+
+            main{
+                display: flex;
+                flex-direction: row;
+                margin-top: 30px;
+            }
+
+            h2{
+                font-size: 56px;
+                line-height: 10px;
+                font-family: poppinsmedium;
+            }
+
+            span{
+                color: blue;
+            }
+
+            p{
+                line-height: 20px;
+                max-width: 500px;
+                font-family: poppinslight;
+                
+            }
+
+            form{
+                display: flex;
+                flex-direction: column;
+                width: 100%;
+            }
+
+            form [type="submit"]{
+                height: 60px;
+                width: 50%;
+                background-color: blue;
+                color: white;
+                font-weight: bold;
+            }
+            form [type="submit"]:hover{
+                cursor: pointer;
+            }
+
+            input{
+                margin-top: 24px;
+                height: 20px;
+                padding: 14px;
+                border-radius: 20px;
+                border: none;
+                font-size: 16px;
+                
+
+                
+                
+            }
+
+            li{
+                display: inline-block;
+                margin: 50px;
+                
+                
+            }
+
+            a{
+                color: white;
+                margin: -0px;
+                height: aut;
+                padding: 15px;
+                border-radius: 20px;
+                border: none;
+                font-size: 17px;
+                line-height: 20px;
+                
+            }
+
+
+            
+
+            
+            
+        </style>
+
+        <div class="hero-image">
+ 
+<main>
+        <aside>
+            <h2><span>Cadrastro</span></h2>
+            
+            <form>
+                
+                <input class="form-control mt-4" type="text" name="user" id="name" placeholder="Nome Completo">
+                <input class="form-control mt-4" type="text" name="user"     id="user" placeholder="Email">
+                <input class="form-control mt-4" type="text" name="email" id="email" placeholder="CPF">
+                <input class="form-control mt-4" type="password" name="password" id="password" placeholder="Sua Senha">
+                <input class="form-control mt-4" type="password" name="password-conf" id="password-conf" placeholder="Confirmar Senha">
+        
+                <ul2>
+                    <a class="btn btn-primary mt-4" type="submit" href="./index.html" ><li>Criar</li></a><br>
+                    
+                </ul2>
+                
+            </form>
+        </aside>
+
+
+
+
+</div>
+    </div>
+
+    <b>
+    <div style="color: white;"> 
+        <center>
+             <p>
+            ©Copyright - 2022
+            </p>
+        </center>
+       </b>
+    </div>
+
+
+
