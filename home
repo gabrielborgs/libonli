@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <center>
+        <b>
+        <h2 style="color: blue;">
+            Libonli
+        </h2>
+    </b>
+    </center>
+
+    <nav id="menu-h">
+        <ul>
+            <li>
+               
+            </li>
+
+            <li><a href="https://academy.satellasoft.com">Sobre</a></li>
+            
+            <li><a href="#">Quem Somos</a></li>
+            
+            <li><a href="#">Contato</a></li>
+            
+            <li><a href="#"></a></li>
+        </ul>
+    </nav>
+
+    <center>
+    <h2 style="color: blue;">Livros Disponiveis</h2>
+</center>    
+
+
+
+
+
+
+
+
+
+<a href="https://www.caelum.com.br/apostila/apostila-html-css-javascript.pdf">
+<div class="row">
+  <div class="column">
+    <div class="card">
+        <img src="./photos/livro9.jpg" style="width: 100%">
+    </a>
+      <h3>HTML & CSS</h3>
+      <p>acesse</p>
+      <p></p>
+    </div>
+  </div>
+
+
+   <div class="column">
+    <div class="card">
+        <img src="./photos/livro8.jpg" style="width: 100%">
+      <h3>Linux a Biblia</h3>
+      <p>acesse</p>
+      <p></p>
+    </div>
+  </div>
+
+  <a href="https://www.dca.fee.unicamp.br/~leopini/DISCIPLINAS/EA869/2018-1/c3-ARM-3.pdf">
+   <div class="column">
+    <div class="card">
+        <img src="./photos/livro7.jpg" style="width: 100%">
+    </a>
+      <h3>Programação baixo nivel</h3>
+      <p>acesse</p>
+      <p></p>
+    </div>
+  </div>
+
+
+  <a href="https://moodle.ufsc.br/pluginfile.php/2377663/mod_resource/content/0/Como%20Programar%20C%2B%2B%20Deitel%205ed.pdf">
+   <div class="column">
+    <div class="card">
+        <img src="./photos/livro6.jpg" style="width: 100%">
+    </a>
+      <h3>C++ para Leigos</h3>
+      <p>acesse</p>
+      <p></p>
+    </div>
+  </div>
+  
+</div>
+
+<div>
+    <center>
+    <p>
+        ©Copyright - 2022
+                            </p>
+                                </center>
+                                        </div>
+                    </body>
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#menu-h{
+    background-color: rgb(245, 138, 65);
+}
+
+#menu-h ul {
+    max-width: 800px;
+    list-style: none;
+    padding: 0;
+}
+
+#menu-h ul li {
+    display: inline;
+}
+
+#menu-h ul li a {
+    color: #FFF;
+    padding: 12px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background .4s;
+}
+
+#menu-h ul li a:hover {
+    background-color: rgb(0, 104, 205);
+}
+
+#menu-h ul li:last-child a {
+    float: right;
+    background-color: rgb(0, 104, 205);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+
+
+
+
+
+
+</style>
+</html>
